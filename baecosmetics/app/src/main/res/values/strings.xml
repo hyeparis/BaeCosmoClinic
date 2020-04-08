@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">BaeCosmoClinic</string>
+    <string name="profile_name">Andrew W. Bae M.D.</string>
+    <string name="profile_intro"><![CDATA[Plastic & Reconstructive Surgery\nAsian Cosmetic Surgery Specialist]]></string>
+    <string name="introduction">Introduction</string>
+    <string name="about">About</string>
+    <string name="contact">Contact</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="user_signin_title">User Login</string>
+    <string name="email_address">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Sign In</string>
+    <string name="registration">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="Register">Register</string>
+    <string name="education">Education &amp; Training</string>
+    <string name="education_detail">M.D. Saint Louis University - School of Medicine\nResidency, Plastic Surgery - UMKC/Truman Medical Center\nFellowship, Hand Surgery - UMKC/KU\n\nCertified by The American Board of Plastic Surgery (ABPS)\n</string>
+    <string name="intro">Asian Cosmetic Surgery Specialist</string>
+    <string name="intro_detail">\tThe creation of an aesthetically pleasing Asian face requires thorough knowledge of the anatomy of the Asian facial skeleton as well as an appreciation of the Asian ideals of beauty.\n\n
+                \tSymmetrical eyelid crease with smooth, firmly attached skin overlying the tarsus, and mobile, loosely attached skin above the level of the crease is aesthetically appealing in Asians.\n\n
+                \tAn appreciation of the Asian concept of beauty is required in order to practice Asian cosmetic surgery. In addition to aesthetic sense of the surgeon, imagination, and creativity, training and experience in plastic and reconstructive surgery are absolute requirements.</string>
+    <string name="location">Location\n</string>
+    <string name="location_detail">BAE Cosmetic Surgery\nAsia Aesthetica\n2727 W. Olympic Bl., Suite 304\nLos Angeles, CA  90006\n</string>
+    <string name="contact_detail">Tel. (213) 384-7555\nFax. (213) 738-8798\n</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btnPush">Send Notification</string>
+    <string-array name="scheduleTime">
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+
+    </string-array>
+
+    <string-array name="scheduleTime2">
+
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+    </string-array>
+</resources>

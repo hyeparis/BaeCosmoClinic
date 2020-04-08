@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "840851619714",
+    "firebase_url": "https://baecosmetics-9b45b.firebaseio.com",
+    "project_id": "baecosmetics-9b45b",
+    "storage_bucket": "baecosmetics-9b45b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840851619714:android:53a3e0fb8c6be87ce9999b",
+        "android_client_info": {
+          "package_name": "com.example.baecosmoclinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840851619714-j8iha8ultjhr42gc3tu1el8cneh8a41e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baecosmoclinic",
+            "certificate_hash": "0dea79accaed3595278a55bf1ff21e495824fca7"
+          }
+        },
+        {
+          "client_id": "840851619714-nie1f1j8kptq134fi2nuajebu6eh4re8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baecosmoclinic",
+            "certificate_hash": "5f85f381814a1c4f6f16dac958690c3417fe451c"
+          }
+        },
+        {
+          "client_id": "840851619714-ni83tnoh3h29o6pjt3imdojemkbq0tsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYwf9ZBCL1rCUCSXjIEWNvQNw0E5Mtzes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840851619714-ni83tnoh3h29o6pjt3imdojemkbq0tsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
